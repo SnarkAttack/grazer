@@ -2,3 +2,5 @@ env/
 *.pyc
 *.key
 *.egg-info/
+.coverage
+.eggs/*
