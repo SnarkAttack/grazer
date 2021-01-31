@@ -22,4 +22,5 @@ setuptools.setup(
     install_requires=[
         'alpaca-trade-api',
     ],
+    tests_require=['pytest', 'coverage']
 )
